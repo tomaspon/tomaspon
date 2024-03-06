@@ -1,16 +1,13 @@
-### Hi there 👋
+# ¡Hola! Soy Tomás Pon 👋
 
-<!--
-**tomaspon/tomaspon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador Full Stack en ascenso con un enfoque especializado en el desarrollo web. Aunque mi experiencia inicial se centra en el Front End, estoy comprometido a ampliar mis habilidades para abarcar todas las facetas del desarrollo Full Stack.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me caracterizo por mi diligencia y capacidad de adaptación, lo que me permite trabajar eficazmente tanto de forma independiente como en equipo. Tengo habilidades para organizar y priorizar tareas según los objetivos del proyecto.
+
+Disfruto colaborar en entornos dinámicos que valoran la creatividad y la innovación. Creo firmemente en la importancia del trabajo en equipo y en la diversidad de ideas para lograr soluciones sólidas.
+
+## Objetivos
+
+Actualmente, estoy en búsqueda de oportunidades profesionales que me permitan poner en práctica mis conocimientos y seguir creciendo en este emocionante campo. Estoy siempre abierto a aprender y expandir mis habilidades para alcanzar mis metas profesionales.
