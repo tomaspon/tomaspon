@@ -12,5 +12,10 @@ Disfruto colaborar en entornos dinámicos que valoran la creatividad y la innova
 
 Actualmente, estoy en búsqueda de oportunidades profesionales que me permitan poner en práctica mis conocimientos y seguir creciendo en este emocionante campo. Estoy siempre abierto a aprender y expandir mis habilidades para alcanzar mis metas profesionales.
 
+## Portafolio
+https://tomaspon-portfolio.vercel.app/
+
 ## Contacto
 https://www.linkedin.com/in/tomaspon/
+
+
